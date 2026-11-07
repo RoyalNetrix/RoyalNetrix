@@ -24,29 +24,6 @@ I'm **RoyalNetrix** — a developer, creator and technology enthusiast who loves
   <img src="https://skillicons.dev/icons?i=java,html,css,js,python,github,vscode,idea&theme=dark" />
 </p>
 
-
-### 📊 GITHUB ACTIVITY
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoyalNetrix&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyalNetrix&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoyalNetrix&theme=tokyonight&hide_border=true" width="75%" />
-</p>
-
-
-### 🌐 CONNECT WITH ME
-
-<p align="left">
-  <a href="mailto:royalnetrix@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-00E5FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00E5FF&height=120&section=footer"/>
 </p>
