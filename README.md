@@ -1,34 +1,63 @@
-<div align="center">
+# 👑 RoyalNetrix
 
-  <!-- Animated Typing / Header Image -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F70D1A&center=true&vCenter=true&width=600&height=70&lines=Hey+there!+I'm+@RoyalNetrix;Minecraft+Enthusiast;Java+Developer+in+Training" alt="Typing Header" />
+<h3 align="center">⚡ Building ideas. Writing code. Creating worlds.</h3>
 
-  <p align="center">
-    <b>Crafting Code & Building Worlds 🎮⚡</b>
-  </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Developer+in+Progress+%F0%9F%92%BB;Minecraft+Enthusiast+%E2%9B%8F%EF%B8%8F;Turning+Ideas+Into+Reality+%F0%9F%9A%80;Always+Learning.+Always+Building." />
+</p>
 
-  <!-- Badges Grid -->
-  <p align="center">
-    <a href="mailto:royalnetrix@gmail.com">
-      <img src="https://img.shields.io/badge/Email-royalnetrix%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-    <img src="https://img.shields.io/badge/Learning-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>
-    <img src="https://img.shields.io/badge/Focus-Minecraft-2E7D32?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft Badge"/>
-  </p>
+---
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="separator">
-</div>
+### 🧑‍💻 About Me
 
-## 📌 About Me
+- 👋 Hey! I'm **@RoyalNetrix**
+- 🎮 Minecraft enthusiast and gaming lover.
+- ☕ Currently learning **Java** and exploring software development.
+- 🚀 Interested in building creative projects and collaborating with developers.
+- 🌐 Open to social projects, teamwork and new ideas.
+- 📬 Reach me at **royalnetrix@gmail.com**
+
+### ⚙️ Tech Stack & Interests
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,github,vscode&theme=dark" />
+</p>
+
+### 🎯 Current Mission
 
 ```java
 public class RoyalNetrix {
-    private String username = "@RoyalNetrix";
-    private String primaryLanguage = "Java";
-    private String mainInterest = "Minecraft (Mods, Plugins & PvP)";
-    private String openTo = "Social & Collaborative Projects";
+    public static void main(String[] args) {
+        String developer = "RoyalNetrix";
+        String currentFocus = "Learning Java";
+        String passion = "Minecraft & Technology";
 
-    public void getCurrentStatus() {
-        System.out.println("Building logic, mastering Java, and leveling up daily!");
+        while (true) {
+            learn();
+            build();
+            improve();
+        }
     }
 }
+```
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RoyalNetrix&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyalNetrix&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoyalNetrix&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Great things are built one line of code at a time."</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! Feel free to explore my repositories.
+</p>
