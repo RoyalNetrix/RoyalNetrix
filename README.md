@@ -15,9 +15,7 @@ I'm **RoyalNetrix** — a developer, creator and technology enthusiast who loves
 - 💻 Passionate about programming and software development.
 - ☕ Working with Java and exploring web technologies.
 - 🤖 Interested in AI, automation and innovative projects.
-- 🎮 Minecraft enthusiast and gaming lover.
 - ⚽ Footballer with a competitive mindset.
-- 🎼 Band leader who believes in creativity and teamwork.
 - 🚀 Always experimenting, learning and building.
 
 ### 🛠️ TECHNOLOGIES & TOOLS
@@ -26,11 +24,6 @@ I'm **RoyalNetrix** — a developer, creator and technology enthusiast who loves
   <img src="https://skillicons.dev/icons?i=java,html,css,js,python,github,vscode,idea&theme=dark" />
 </p>
 
-### 🚀 WHAT I'M BUILDING
-
-- **Netrix** — AI-powered attendance system.
-- **Lynth AI** — Exploring AI-powered text analysis.
-- **Creative Software** — Experimenting with applications, automation and new ideas.
 
 ### 📊 GITHUB ACTIVITY
 
